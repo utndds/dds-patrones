@@ -1,0 +1,6 @@
+C:\git\dds-patrones\State\bin\Debug\Patron State.exe.config
+C:\git\dds-patrones\State\bin\Debug\Patron State.exe
+C:\git\dds-patrones\State\bin\Debug\Patron State.pdb
+C:\git\dds-patrones\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\git\dds-patrones\State\obj\Debug\Patron State.exe
+C:\git\dds-patrones\State\obj\Debug\Patron State.pdb

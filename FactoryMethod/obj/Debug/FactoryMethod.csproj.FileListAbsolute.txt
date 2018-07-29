@@ -1,0 +1,14 @@
+C:\xampp\htdocs\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron FactoryMethod (.NET)\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\git\dds-patrones\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\git\dds-patrones\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\git\dds-patrones\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\git\dds-patrones\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\git\dds-patrones\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\git\dds-patrones\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+C:\xampp\htdocs\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\xampp\htdocs\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\xampp\htdocs\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\xampp\htdocs\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\xampp\htdocs\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Equipo Docente DDS-UTN\Patrones de diseño - Codigo NET a revisar\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.exe
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Decorator (.NET)\Decorator\Decorator\obj\Debug\Decorator.pdb
+C:\git\dds-patrones\Decorator\bin\Debug\Decorator.exe.config
+C:\git\dds-patrones\Decorator\obj\Debug\Decorator.exe
+C:\git\dds-patrones\Decorator\obj\Debug\Decorator.pdb
+C:\git\dds-patrones\Decorator\bin\Debug\Decorator.exe
+C:\git\dds-patrones\Decorator\bin\Debug\Decorator.pdb
+C:\git\dds-patrones\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache

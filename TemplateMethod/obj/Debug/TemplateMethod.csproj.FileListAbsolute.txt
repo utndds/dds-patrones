@@ -1,0 +1,15 @@
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\xampp\htdocs\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron TemplateMethod (.NET)\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron TemplateMethod (.NET)\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron TemplateMethod (.NET)\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\git\utndds-patrones\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\git\utndds-patrones\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\git\utndds-patrones\TemplateMethod\obj\Debug\TemplateMethod.pdb
+C:\git\utndds-patrones\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\git\utndds-patrones\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\git\utndds-patrones\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache

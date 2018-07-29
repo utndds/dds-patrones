@@ -1,0 +1,21 @@
+C:\xampp\htdocs\Observer\Observer\bin\Debug\Observer.exe.config
+C:\xampp\htdocs\Observer\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Observer\Observer\bin\Debug\Observer.exe
+C:\xampp\htdocs\Observer\Observer\bin\Debug\Observer.pdb
+C:\xampp\htdocs\Observer\Observer\obj\Debug\Observer.exe
+C:\xampp\htdocs\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Observer (.NET)\Observer\Observer\obj\Debug\Observer.pdb
+C:\git\dds-patrones\Observer\bin\Debug\Observer.exe.config
+C:\git\dds-patrones\Observer\obj\Debug\Observer.exe
+C:\git\dds-patrones\Observer\obj\Debug\Observer.pdb
+C:\git\dds-patrones\Observer\bin\Debug\Observer.exe
+C:\git\dds-patrones\Observer\bin\Debug\Observer.pdb
+C:\git\dds-patrones\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache

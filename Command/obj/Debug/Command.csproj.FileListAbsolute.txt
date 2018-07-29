@@ -1,0 +1,9 @@
+C:\xampp\htdocs\Command\Command\bin\Debug\Command.exe.config
+C:\xampp\htdocs\Command\Command\bin\Debug\Command.exe
+C:\xampp\htdocs\Command\Command\bin\Debug\Command.pdb
+C:\xampp\htdocs\Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Command\Command\obj\Debug\Command.exe
+C:\xampp\htdocs\Command\Command\obj\Debug\Command.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Command (.NET)\Command\Command\bin\Debug\Command.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Command (.NET)\Command\Command\obj\Debug\Command.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patrones de Diseño\Patron Command (.NET)\Command\Command\obj\Debug\Command.pdb

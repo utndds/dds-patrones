@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\xampp\htdocs\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\xampp\htdocs\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\xampp\htdocs\Visitor\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\xampp\htdocs\Visitor\Visitor\obj\Debug\Visitor.pdb
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Visitor (.NET)\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Visitor (.NET)\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Visitor (.NET)\Visitor\Visitor\obj\Debug\Visitor.pdb
+C:\git\dds-patrones\Visitor\bin\Debug\Visitor.exe.config
+C:\git\dds-patrones\Visitor\obj\Debug\Visitor.exe
+C:\git\dds-patrones\Visitor\obj\Debug\Visitor.pdb
+C:\git\dds-patrones\Visitor\bin\Debug\Visitor.exe
+C:\git\dds-patrones\Visitor\bin\Debug\Visitor.pdb
+C:\git\dds-patrones\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache

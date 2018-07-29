@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Patron State.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Patron State\ConsoleApplication1\ConsoleApplication1\bin\Debug\Patron State.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron State (.NET)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Patron State.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron State (.NET)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Patron State.exe.config

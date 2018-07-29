@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.pdb
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+c:\users\user\documents\visual studio 2015\Projects\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+C:\xampp\htdocs\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+C:\xampp\htdocs\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.pdb
+c:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Editables y No publicables\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+C:\Users\user\Google Drive\Laboral\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\6. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\bin\Debug\PatronStrategy.exe.config
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.exe
+C:\Users\user\Google Drive\Repositorios\Laboral Academico\Docencia UTN + ITBA\UTN DDS\Publico DDS-UTN\7. Codigo fuente con ejemplos\Patrones de Diseño\Patron Strategy (.NET)\PatronStrategy\PatronStrategy\obj\Debug\PatronStrategy.pdb

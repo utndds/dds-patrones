@@ -1,0 +1,9 @@
+C:\git\dds-patrones\Strategy\bin\Debug\PatronStrategy.exe.config
+C:\git\dds-patrones\Strategy\obj\Debug\PatronStrategy.exe
+C:\git\dds-patrones\Strategy\obj\Debug\PatronStrategy.pdb
+C:\git\dds-patrones\Strategy\bin\Debug\PatronStrategy.exe
+C:\git\dds-patrones\Strategy\bin\Debug\PatronStrategy.pdb
+C:\git\dds-patrones\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\git\utndds-patrones\Strategy\bin\Debug\PatronStrategy.exe.config
+C:\git\utndds-patrones\Strategy\obj\Debug\PatronStrategy.exe
+C:\git\utndds-patrones\Strategy\obj\Debug\PatronStrategy.pdb
