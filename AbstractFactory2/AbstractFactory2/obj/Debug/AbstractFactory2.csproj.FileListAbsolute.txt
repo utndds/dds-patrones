@@ -1,0 +1,6 @@
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.exe.config
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.exe
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\bin\Debug\AbstractFactory2.pdb
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.csprojResolveAssemblyReference.cache
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.exe
+C:\git\utndds\patrones\AbstractFactory2\AbstractFactory2\obj\Debug\AbstractFactory2.pdb

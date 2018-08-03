@@ -1,0 +1,6 @@
+C:\git\utndds\patrones\Builder\Builder\bin\Debug\Builder.exe.config
+C:\git\utndds\patrones\Builder\Builder\bin\Debug\Builder.exe
+C:\git\utndds\patrones\Builder\Builder\bin\Debug\Builder.pdb
+C:\git\utndds\patrones\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\git\utndds\patrones\Builder\Builder\obj\Debug\Builder.exe
+C:\git\utndds\patrones\Builder\Builder\obj\Debug\Builder.pdb

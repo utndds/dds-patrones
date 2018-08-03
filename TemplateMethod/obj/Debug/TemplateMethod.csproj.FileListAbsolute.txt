@@ -13,3 +13,6 @@ C:\git\utndds-patrones\TemplateMethod\obj\Debug\TemplateMethod.pdb
 C:\git\utndds-patrones\TemplateMethod\bin\Debug\TemplateMethod.exe
 C:\git\utndds-patrones\TemplateMethod\bin\Debug\TemplateMethod.pdb
 C:\git\utndds-patrones\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\git\utndds\patrones\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\git\utndds\patrones\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\git\utndds\patrones\TemplateMethod\obj\Debug\TemplateMethod.pdb
